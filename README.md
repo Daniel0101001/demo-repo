@@ -1,3 +1,6 @@
-# Neural network demo
+#neural network demo
 
-## some description.
+
+##
+descriptions 
+ommjhjjkshakjdhfj
