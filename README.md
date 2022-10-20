@@ -1,5 +1,9 @@
 #neural network demo
 
 
+## 
+open index.html in your browser.
 ##
-hello neural world 
+change this world.
+##
+winter is comming 
